@@ -1,5 +1,6 @@
 # Experiment 2: DDL Commands
-
+### Name: SURIYA M
+### Reg No: 212223110055
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
@@ -271,6 +272,9 @@ on delete cascade
 
 <img width="1906" height="684" alt="image" src="https://github.com/user-attachments/assets/5c3e0427-2d3a-4782-85db-a24a9b91b16b" />
 
+## Screenshot of Module 1 SEB Completion Grades
+
+<img width="1192" height="76" alt="image" src="https://github.com/user-attachments/assets/f02252a2-1526-4570-b337-fcac2a901261" />
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
