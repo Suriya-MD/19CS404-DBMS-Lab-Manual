@@ -177,6 +177,9 @@ where ADDRESS like 'DELHI';
 
 ![image](https://github.com/user-attachments/assets/41b8531c-a394-40dc-a6fe-effc4168d504)
 
+## Screenshot of Module 4 SEB Completion Grades
+<img width="1097" height="75" alt="image" src="https://github.com/user-attachments/assets/f10e5082-96fe-4952-9aae-6e45ecd73783" />
+
 
 
 ## RESULT
