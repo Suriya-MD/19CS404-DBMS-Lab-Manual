@@ -258,7 +258,10 @@ WHERE c.city <> s.city
 
 <img width="960" height="364" alt="image" src="https://github.com/user-attachments/assets/254d8932-def8-4392-8f4b-fe7ed976a5b5" />
 
+## Screenshot of Module 5 SEB Completion Grades
 
+
+<img width="1218" height="76" alt="image" src="https://github.com/user-attachments/assets/e3089ccd-930d-48a1-9055-e2c54b3644b1" />
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
